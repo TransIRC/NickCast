@@ -1,0 +1,1 @@
+go build -o nickcast /home/rose/PycharmProjects/NickCast/cmd/nickcast/main.go

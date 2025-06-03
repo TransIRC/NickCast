@@ -1,0 +1,8 @@
+# Server listen address (host:port)
+listen = :8000 //the host and port to bind to
+
+# NickServ API endpoint
+auth_url = http://localhost:8089/v1/check_auth //update with url to API
+
+# Bearer token for the NickServ API
+api_token = YOUR_BEARER_TOKEN
