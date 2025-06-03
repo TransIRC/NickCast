@@ -87,7 +87,3 @@ Back in the day, running a community Icecast or Shoutcast server meant constantl
 -   🔜 Support for more IRC servers (not just Ergo)
 
 * * * * *
-
- me know if you'd like a logo badge, CI instructions, or systemd unit to add to it as well.
-
-```
